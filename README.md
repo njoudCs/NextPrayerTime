@@ -12,9 +12,8 @@ The app uses UserDefaults in order to register default settings that can subsequ
 ## Installation
 1. Download the repository (project) from the download section or clone it using the following command:
    ```shell
-   git clone https://github.com/HouariZegai/PrayerTimes.git
+   git clone https://github.com/njoudCs/NextPrayerTime.git
    ```
-
 
 ## Contributing 💡
 If you find any issue just put it in the repository issue section, thank you.
